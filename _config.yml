@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ctrl-c.club
+# url: http://ctrl-c.club
+url: http://thiagowfx.github.io
 title: Everyday Kaizen
 subtitle: Meh.
 author: Thiago Perrotta
@@ -26,7 +27,8 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /~tbp
+# root: /~tbp
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
